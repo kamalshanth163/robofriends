@@ -1,0 +1,19 @@
+
+#card {
+  background: rgba(255, 255, 255, 0.897);
+}
+
+#card img {
+  margin-bottom: 20px;
+  width: 200px;
+  height: auto;
+  
+}
+
+h2{
+  margin: 20px;
+}
+
+p{
+  margin: 20px;
+}
